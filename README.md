@@ -1,6 +1,3 @@
-# neroproject
-tugas 1
-
 # LATIHAN WEBPRO ll
 ### Nama : Rizky Awaludin
 ### Nim : 17200421
@@ -12,11 +9,11 @@ Git adalah sebuah **perangkat lunak yang digunakan untuk mengontrol versi ataupu
 
 
 
-1.) ADD 
+1. ADD 
 **berguna untuk menambah file baru kedalam  repository Github**
-2.) Clone 
+2. Clone 
 **berguna untuk mengclone / mengcopy sebuah repo di dalam git hub ke lokal**
-3). PUSH 
+3. PUSH 
 **berguna untuk mentransfer segala perubahan  ke dalam repository**
 4.) INIT
 **Berguna untuk membuat file repository di dalam lokal machine /komputer**
